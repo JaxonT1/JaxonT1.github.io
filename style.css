@@ -1,0 +1,25 @@
+Body {font-family: "PT Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  Background-color: green;
+max-Width: 800px;
+Margin: auto;
+
+
+}
+H1,h2,h3 {text-align: center;}
+
+Nav li{
+   List-style-type: none;
+   Display: inline-block;
+   Background-color: white;
+   Padding: 10px
+}
+
+Nav li:hover {
+ Background-color:yellow;
+}
+
+Nav a {
+
+}
